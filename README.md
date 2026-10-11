@@ -240,4 +240,4 @@ This repository serves as the official landing page for FlatOut 2. The software 
 **Get the most recent version of FlatOut 2 today!**
 
 ---
-**Last updated:** 2026-10-10 20:23:37 UTC
+**Last updated:** 2026-10-11 00:00:28 UTC
